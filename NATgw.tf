@@ -1,0 +1,5 @@
+
+//create a NAT gateway
+
+
+
