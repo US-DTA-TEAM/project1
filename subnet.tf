@@ -24,7 +24,7 @@ resource "aws_subnet" "test_private_subnet" {
     availability_zone = "us-east-1b"
     map_public_ip_on_launch = false
     tags = { 
-        Name = "test_private_subnet"
+        Name = "test_private"
     }  
 
 }
