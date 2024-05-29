@@ -1,7 +1,6 @@
 
 //create a NAT gateway
 resource "aws_eip" "terrajens_eip" {
-
 tags = {
   Name = "terrajens_natgw_eip"
 
